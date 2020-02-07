@@ -1,6 +1,6 @@
 # Graph Neural Network on Electronic Health Records for Predicting Alzheimer’s Disease
 
-![image](https://github.com/anonymousforpaper/GNN_for_AD/blob/master/plots/model.png)
+![image](https://github.com/anonymousforpaper/GNN_AD/master/plots/model.png)
 
 ## Model Training
 
@@ -18,7 +18,7 @@ Nvidia GPU with Cuda 10.0 are required for training models.
 
 ### Data
 
-A synethic data with same format in [data](https://github.com/anonymousforpaper/GNN_for_AD/blob/tree/master/data) folder:
+A synethic data with same format in [data](https://github.com/anonymousforpaper/GNN_AD/tree/master/data) folder:
   - **preprocess_x.pkl**: 1-d EHR data (num_of_patients * num_of_EHRs);
   - **y_bin.pkl**: AD outcomes in 12-24 months;
   - **frts_selections.pkl**: indices of features;
