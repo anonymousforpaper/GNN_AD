@@ -1,6 +1,6 @@
 # Graph Neural Network on Electronic Health Records for Predicting Alzheimer’s Disease
 
-![image](https://github.com/anonymousforpaper/GNN_AD/master/plots/model.png)
+![image](https://github.com/anonymousforpaper/GNN_AD/blob/master/plots/model.png)
 
 ## Model Training
 
